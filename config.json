@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsrave",
+        "uuid": 11443710,
+        "checksum": "k8v10h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
